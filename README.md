@@ -2,6 +2,7 @@
 - 📖 I'm currently a Computer Science student at [CESAR SCHOOL](https://github.com/Abduzidos)
 - 🍎 Learning more about `Python`,`Java Script`,`HTML`
 - 👨‍🏫 Learning english to improve my programming skills
+- 💻 Learning about Digital Marcketing 
 
 ## My Skills 🥇
 
@@ -19,3 +20,6 @@
 
 ## Contact Me 📱
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/-bernardo-leao-cc)
+[![Gmail Badge](https://img.shields.io/badge/-@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](bernardoleao23@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bernardo.leao_?igsh=MW9yMHdjOXZjejMwMw%3D%3D&ut_)
+
