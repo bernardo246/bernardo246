@@ -1,7 +1,7 @@
 ## ABOUT ME :atom:
--📖 I'm currently a Computer Science student at [CESAR SCHOOL](https://github.com/Abduzidos)
--🍎 Learning more about `Python`,`Java Script`,`HTML`
--👨‍🏫 Learning english to improve my programming skills
+- 📖 I'm currently a Computer Science student at [CESAR SCHOOL](https://github.com/Abduzidos)
+- 🍎 Learning more about `Python`,`Java Script`,`HTML`
+- 👨‍🏫 Learning english to improve my programming skills
 
 ## My Skills 🥇
 
